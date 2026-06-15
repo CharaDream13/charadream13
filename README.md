@@ -1,16 +1,65 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://avatars.githubusercontent.com/CharaDream13" width="180" height="180" style="border-radius: 0px" />
+    </td>
+    <td width="70%">
+      <h1>Привет 👋 Меня зовут CharaDream13</h1>
+      <h3>Web-разработчик и архитектор структуры</h3>
+      <ul>
+        <li>🌍 Живу в цифровом пространстве</li>
+        <li>📫 Связаться со мной: <a href="mailto:CharaDream13@gmail.com">CharaDream13@gmail.com</a></li>
+        <li>👨‍💻 Telegram канал: <a href="https://t.me/+Znpw3h1xog9mYTcy">https://t.me/+Znpw3h1xog9mYTcy</a></li>
+        <li>🎮 Discord сервер: <a href="https://discord.gg/dJyqxkyumD">https://discord.gg/dJyqxkyumD</a></li>
+        <li>🔭 Сейчас работаю над личными проектами</li>
+        <li>🌱 Глубоко понимаю архитектуру ПО</li>
+        <li>👯 Открыт к сотрудничеству над интересными проектами</li>
+        <li>⚡ Забавный факт: знаю много языков — не идеально, но знаю их структуру</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!--
-**CharaDream13/charadream13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**ПОДПИСЧИКОВ**  
+<!-- GitHub автоматически подставит число -->  
+**ПОДПИСАТЬСЯ @CHARADREAM13**  
+<!-- GitHub автоматически подставит число -->  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Статистика  
+
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=CharaDream13&show_icons=true&theme=dark&hide_border=true" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharaDream13&layout=compact&theme=dark&hide_border=true" />
+    </a>
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=CharaDream13&theme=dark&hide_border=true" />
+  </a>
+</div>
+
+---
+
+### 🧠 Навыки и технологии  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="border-radius: 0px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="border-radius: 0px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" style="border-radius: 0px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" style="border-radius: 0px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" style="border-radius: 0px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="border-radius: 0px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" style="border-radius: 0px" />
