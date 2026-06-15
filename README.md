@@ -23,26 +23,26 @@
 ---
 
 **ПОДПИСЧИКОВ**  
-<!-- GitHub автоматически подставит число -->  
-**ПОДПИСАТЬСЯ @CHARADREAM13**  
-<!-- GitHub автоматически подставит число -->  
+**ПОДПИСАТЬСЯ @CHARADREAM13**
 
 ---
 
-### 📊 GitHub Статистика  
+### 📊 GitHub Статистика
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=CharaDream13&show_icons=true&theme=dark&hide_border=true" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharaDream13&layout=compact&theme=dark&hide_border=true" />
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=CharaDream13&show_icons=true&theme=dark&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharaDream13&layout=compact&theme=dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -54,7 +54,7 @@
 
 ---
 
-### 🧠 Навыки и технологии  
+### 🧠 Навыки и технологии
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="border-radius: 0px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="border-radius: 0px" />
