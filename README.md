@@ -7,14 +7,12 @@
       <h1>Привет 👋 Меня зовут CharaDream13</h1>
       <h3>Web-разработчик и архитектор структуры</h3>
       <ul>
-        <li>🌍 Живу в цифровом пространстве</li>
         <li>📫 Связаться со мной: <a href="mailto:CharaDream13@gmail.com">CharaDream13@gmail.com</a></li>
         <li>👨‍💻 Telegram канал: <a href="https://t.me/+Znpw3h1xog9mYTcy">https://t.me/+Znpw3h1xog9mYTcy</a></li>
         <li>🎮 Discord сервер: <a href="https://discord.gg/dJyqxkyumD">https://discord.gg/dJyqxkyumD</a></li>
         <li>🔭 Сейчас работаю над личными проектами</li>
-        <li>🌱 Глубоко понимаю архитектуру ПО</li>
-        <li>👯 Открыт к сотрудничеству над интересными проектами</li>
-        <li>⚡ Забавный факт: знаю много языков — не идеально, но знаю их структуру</li>
+        <li>👯 Открыт к сотрудничеству с интересными проектами</li>
+        <li>⚡ Знаю много языков — не идеально, но знаю их структуру</li>
       </ul>
     </td>
   </tr>
