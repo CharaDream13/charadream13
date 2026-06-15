@@ -1,4 +1,4 @@
-</table>
+<table>
   <tr>
     <td width="30%" align="center">
       <img src="https://avatars.githubusercontent.com/CharaDream13" width="180" height="180" style="border-radius: 0px" />
@@ -22,16 +22,16 @@
 
 ### 📊 GitHub Статистика
 
-</table>
+<table width="100%">
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=CharaDream13&show_icons=true&theme=dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=CharaDream13&show_icons=true&theme=dark&hide_border=true" width="100%" />
       </a>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharaDream13&layout=compact&theme=dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharaDream13&layout=compact&theme=dark&hide_border=true" width="100%" />
       </a>
     </td>
   </tr>
@@ -39,9 +39,9 @@
 
 <br>
 
-<div align="center">
+<div align="center" width="100%">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=CharaDream13&theme=dark&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=CharaDream13&theme=dark&hide_border=true" width="100%" />
   </a>
 </div>
 
