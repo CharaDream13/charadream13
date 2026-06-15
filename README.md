@@ -38,13 +38,6 @@
 </table>
 
 <br>
-
-<div align="center" width="100%">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=CharaDream13&theme=dark&hide_border=true" width="100%" />
-  </a>
-</div>
-
 ---
 
 ### 🧠 Навыки и технологии
